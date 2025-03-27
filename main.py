@@ -19,3 +19,5 @@ def anzeige_gebrauch(cpu_usage, mem_usage, batterie, bars=50):
 while True:
     anzeige_gebrauch(psutil.cpu_percent(), psutil.virtual_memory().percent, psutil.sensors_battery(), 30)
     time.sleep(0.5)
+
+    nigger
