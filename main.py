@@ -20,4 +20,4 @@ while True:
     anzeige_gebrauch(psutil.cpu_percent(), psutil.virtual_memory().percent, psutil.sensors_battery(), 30)
     time.sleep(0.5)
 
-    nigger
+    niggerface buthc monkey cia nigger
